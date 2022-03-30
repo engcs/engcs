@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Junior Python Developer passionate about how things work and how to improve them. I have experience with projects using Python in desktop and now working to make them web. I have a degree in industrial electrical engineering with an emphasis on electronics and hardware development. I want to learn more about how to apply technology in real business and add more value.
+
 <!--
 **engcs/engcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
